@@ -1,0 +1,27 @@
+/* heading text of post details */
+h1.text {
+  margin-top: 30px;
+  text-align: center;
+  font-style: italic;
+  color: rgb(43, 205, 226);
+  margin-bottom: 10px;
+}
+div.wrapperDetails {
+  padding: 20px;
+}
+div.flex {
+  display: flex;
+  justify-content: space-between;
+}
+div.wrapperDetails div.flex span.id {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+p.title {
+  font-weight: bold;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+p.contentAll {
+  padding: 5px;
+}

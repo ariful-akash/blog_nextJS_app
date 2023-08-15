@@ -1,0 +1,25 @@
+/* this is for the div that contains all the the blog page */
+div.wrapper {
+  padding: 20px;
+}
+/* this is for blog h1 tag */
+h1.text {
+  color: rgb(43, 205, 226);
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+/* this is for posts list wrapper*/
+div.post {
+  box-sizing: border-box;
+  border: 2px solid gray;
+  padding: 15px;
+  text-decoration: none;
+}
+/* this is for each single post paragraph */
+div.post p.postPara {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
